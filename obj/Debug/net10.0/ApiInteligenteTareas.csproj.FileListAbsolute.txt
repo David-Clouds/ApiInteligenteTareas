@@ -31,3 +31,7 @@ C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\obj\Debug\net10.0\refint
 C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\obj\Debug\net10.0\ApiInteligenteTareas.pdb
 C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\obj\Debug\net10.0\ApiInteligenteTareas.genruntimeconfig.cache
 C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\obj\Debug\net10.0\ref\ApiInteligenteTareas.dll
+C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\obj\Debug\net10.0\ApiInteligenteTareas.sourcelink.json
+C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\ApiInteligenteTareas\ApiInteligenteTareas\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
